@@ -7,3 +7,5 @@ Copy your payload into %userprofile%\AppData\Local\Microsoft\Teams\current\
 
 https://github.com/foi-oss/ortbot
 https://github.com/SecurityRiskAdvisors/VECTR
+https://github.com/meirwah/awesome-incident-response
+https://github.com/hslatman/awesome-threat-intelligence
