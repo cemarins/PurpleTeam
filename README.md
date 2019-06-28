@@ -6,3 +6,4 @@ Copy your payload into %userprofile%\AppData\Local\Microsoft\Teams\current\
   %userprofile%\AppData\Local\Microsoft\Teams\Update.exe --processStart payload.exe --process-start-args "whatever args"
 
 https://github.com/foi-oss/ortbot
+https://github.com/SecurityRiskAdvisors/VECTR
