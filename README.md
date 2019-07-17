@@ -34,3 +34,8 @@ https://github.com/Cyb3rWard0g/ThreatHunter-Playbook
 https://github.com/trimstray/the-book-of-secret-knowledge
 
 https://github.com/gigajew/PowerDropper
+
+https://blog.stealthbits.com/stealing-credentials-with-a-security-support-provider-ssp/
+
+https://www.peerlyst.com/posts/the-endpoint-security-and-endpoint-hardening-wiki-peerlyst
+
