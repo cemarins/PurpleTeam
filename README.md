@@ -32,3 +32,5 @@ https://github.com/W00t3k/Awesome-Cellular-Hacking
 https://github.com/Cyb3rWard0g/ThreatHunter-Playbook
 
 https://github.com/trimstray/the-book-of-secret-knowledge
+
+https://github.com/gigajew/PowerDropper
