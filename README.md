@@ -41,3 +41,17 @@ https://www.peerlyst.com/posts/the-endpoint-security-and-endpoint-hardening-wiki
 
 https://www.peerlyst.com/posts/the-wiki-of-peerlyst-wikis-to-help-you-navigate-peerlyst
 
+https://gtfobins.github.io/
+
+https://github.com/meitar/awesome-cybersecurity-blueteam
+
+https://medium.com/@cloudyforensics/forensic-detection-of-mitre-att-ck-techniques-83940f3b86ec
+
+https://ericzimmerman.github.io/#!index.md
+
+https://posts.specterops.io/introducing-ghostwriter-part-1-61e7bd014aff
+
+https://posts.specterops.io/enter-mordor-pre-recorded-security-events-from-simulated-adversarial-techniques-fdf5555c9eb1
+
+https://www.peerlyst.com/posts/the-complete-warberrypi-everything-you-need-secgroundzero
+
