@@ -55,3 +55,5 @@ https://posts.specterops.io/enter-mordor-pre-recorded-security-events-from-simul
 
 https://www.peerlyst.com/posts/the-complete-warberrypi-everything-you-need-secgroundzero
 
+https://github.com/SpiderLabs/Responder
+
