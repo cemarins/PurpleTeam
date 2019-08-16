@@ -57,3 +57,4 @@ https://www.peerlyst.com/posts/the-complete-warberrypi-everything-you-need-secgr
 
 https://github.com/SpiderLabs/Responder
 
+https://www.malwarearchaeology.com/cheat-sheets
