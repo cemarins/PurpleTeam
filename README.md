@@ -61,3 +61,19 @@ https://www.malwarearchaeology.com/cheat-sheets
 
 https://github.com/itsKindred/redViper
 
+https://github.com/ufrisk/MemProcFS
+
+https://www.vulnhub.com/
+
+https://www.peerlyst.com/posts/hands-on-active-directory-security-enumeration-and-post-exploitation-msf-and-mimikatz-part1-chiheb-chebbi
+
+https://www.peerlyst.com/posts/hands-on-active-directory-security-enumeration-and-post-exploitation-msf-and-mimikatz-part2-chiheb-chebbi
+
+https://pentest.blog/art-of-anti-detection-1-introduction-to-av-detection-techniques/
+
+https://pentest.blog/art-of-anti-detection-2-pe-backdoor-manufacturing/
+
+https://pentest.blog/art-of-anti-detection-3-shellcode-alchemy/
+
+https://pentest.blog/art-of-anti-detection-4-self-defense/
+
