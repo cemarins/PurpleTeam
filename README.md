@@ -77,3 +77,17 @@ https://pentest.blog/art-of-anti-detection-3-shellcode-alchemy/
 
 https://pentest.blog/art-of-anti-detection-4-self-defense/
 
+https://github.com/sailay1996/Fileless_UAC_bypass_WSReset
+
+https://www.activecyber.us/activelabs/windows-uac-bypass
+
+https://github.com/everdox/InfinityHook
+
+https://github.com/mitre/caldera
+
+https://github.com/SecurityCompass/SQL-Inject-Me
+
+https://blog.nviso.be/2019/08/28/extracting-certificates-from-the-windows-registry/
+
+https://blog.nviso.be/2018/07/31/powershell-inside-a-certificate-part-1/
+
