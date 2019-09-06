@@ -65,3 +65,7 @@ https://github.com/philhagen/sof-elk/blob/master/VM_README.md<br />
 https://github.com/TrustedSec/ptf<br />
 https://blog.renditioninfosec.com/2019/06/avml-memory-forensics-for-linux/<br />
 https://www.jaiminton.com/cheatsheet/DFIR/<br />
+https://github.com/volatilityfoundation/volatility/wiki/Command-Reference<br />
+https://lifs.hallym.ac.kr/blog/2019/08/19/File-System-Analysis-of-LG-Forensic-Image-with-Binwalk.html<br />
+https://gist.github.com/TarlogicSecurity/2f221924fef8c14a1d8e29f3cb5c5c4a<br />
+https://www.peerlyst.com/posts/microsoft-ad-forensics-active-directory-acl-investigation-guurhart<br />
