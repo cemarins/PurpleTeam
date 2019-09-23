@@ -70,3 +70,5 @@ https://lifs.hallym.ac.kr/blog/2019/08/19/File-System-Analysis-of-LG-Forensic-Im
 https://gist.github.com/TarlogicSecurity/2f221924fef8c14a1d8e29f3cb5c5c4a<br />
 https://www.peerlyst.com/posts/microsoft-ad-forensics-active-directory-acl-investigation-guurhart<br />
 https://captmeelo.com/bugbounty/2019/09/02/asset-enumeration.html<br />
+https://specterops.io/resources/research-and-development<br />
+https://medium.com/@z3roTrust/bypassing-windows-user-account-control-9051c6a85734<br />
