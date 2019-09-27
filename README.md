@@ -72,3 +72,8 @@ https://www.peerlyst.com/posts/microsoft-ad-forensics-active-directory-acl-inves
 https://captmeelo.com/bugbounty/2019/09/02/asset-enumeration.html<br />
 https://specterops.io/resources/research-and-development<br />
 https://medium.com/@z3roTrust/bypassing-windows-user-account-control-9051c6a85734<br />
+
+https://github.com/Yelp/detect-secrets<br />
+https://github.com/anshumanbh/git-all-secrets<br />
+https://github.com/zricethezav/gitleaks<br />
+https://github.com/zricethezav/gitleaks/releases<br />
