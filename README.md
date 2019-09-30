@@ -79,3 +79,4 @@ https://github.com/zricethezav/gitleaks<br />
 https://github.com/zricethezav/gitleaks/releases<br />
 
 https://www.andreafortuna.org/2019/03/20/cracking-microsoft-excel-documents-using-john-the-ripper/amp/<br />
+http://www.delphibasics.info/home/delphibasicsarticles/anin-depthlookintothewin32portableexecutablefileformat-part1<br />
