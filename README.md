@@ -77,3 +77,5 @@ https://github.com/Yelp/detect-secrets<br />
 https://github.com/anshumanbh/git-all-secrets<br />
 https://github.com/zricethezav/gitleaks<br />
 https://github.com/zricethezav/gitleaks/releases<br />
+
+https://www.andreafortuna.org/2019/03/20/cracking-microsoft-excel-documents-using-john-the-ripper/amp/<br />
