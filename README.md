@@ -57,7 +57,7 @@ https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defe
 https://github.com/olafhartong/ThreatHunting<br />
 https://guidovranken.com/2019/05/14/differential-fuzzing-of-cryptographic-libraries/amp/<br />
 http://www.eventid.net/docs/open_source_security_controls.asp<br />
-http://www.eventid.net/docs/open_source_security_controls.asp<br />
+https://adsecurity.org/?page_id=1821<br />
 https://specterops.io/resources/research-and-development<br />
 https://github.com/infosecn1nja/AD-Attack-Defense/blob/master/README.md<br />
 https://amp.kitploit.com/2019/06/pcapxray-v25-network-forensics-tool-to.html<br />
